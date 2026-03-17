@@ -5,10 +5,10 @@ DogHub is a social playground for dog parents and their furry best friends.
 
 With DogHub you can:
 
-• 🐕 Create adorable profiles for your dogs
-• 🌳 Discover nearby dog parks, trails, and off-leash areas
-• 🐾 Find playmates and organize dog meetups
-• 🍔 Explore pet-friendly restaurants and hangouts
+- 🐕 Create adorable profiles for your dogs
+- 🌳 Discover nearby dog parks, trails, and off-leash areas
+- 🐾 Find playmates and organize dog meetups
+- 🍔 Explore pet-friendly restaurants and hangouts
 
 Because every dog deserves more friends, more adventures, and more tail wags.
 This repository contains:
